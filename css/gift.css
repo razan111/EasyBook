@@ -1,0 +1,32 @@
+#nav{
+    margin-right: 35px;
+}
+.razan{
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+    background-color: #96B9EF;
+    height: 300px;
+}
+
+
+
+
+/* footer section styling */
+footer{
+    background: #011c39;
+    padding: 15px 23px;
+    color: #fff;
+    text-align: center;
+}
+footer span a{
+    color: crimson;
+    text-decoration: none;
+}
+footer span a:hover{
+    text-decoration: underline;
+}
+
+
